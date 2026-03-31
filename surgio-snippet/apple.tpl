@@ -27,7 +27,6 @@ USER-AGENT,Maps*,{{ location_rule }}
 #
 # 一些 com.apple.appstored* 会连接的 API（优先级高）
 #
-DOMAIN,guzzoni.apple.com,{{ api_rule }}
 DOMAIN,apps.apple.com,{{ api_rule }}
 DOMAIN,xp.apple.com,{{ api_rule }}
 DOMAIN,bag.itunes.apple.com,{{ api_rule }}
@@ -46,6 +45,7 @@ DOMAIN-SUFFIX,itunes-apple.com.akadns.net,{{ api_rule }}
 # Apple Intelligence
 #
 DOMAIN,apple-relay.apple.com,{{ api_rule }}
+DOMAIN,guzzoni.apple.com,{{ api_rule }}
 
 #
 # Apple Global CDN
@@ -113,8 +113,8 @@ DOMAIN,apple.comscoreresearch.com,{{apple_news_rule}}
 # Store
 DOMAIN-SUFFIX,store.apple.com,DIRECT
 # Spotlight
-DOMAIN,api.smoot.apple.com,DIRECT
-DOMAIN,api.smoot.apple.cn,DIRECT
+DOMAIN,*.smoot.apple.com,{{ location_rule }}
+DOMAIN,*.smoot.apple.cn,{{ location_rule }}
 # Hotspot captive
 DOMAIN,captive.apple.com,DIRECT
 # Apple Pay
