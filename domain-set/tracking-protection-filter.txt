@@ -4,6 +4,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.jspcdn.cn
+.log0-misc-hl.amemv.com
+.eu-data.kameleoon.io
+.velarium.cc
+.maniteka.com
 .bbc-reporting-api.app
 .spindl.link
 .monitoragc.xyz
@@ -78381,6 +78386,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.analytics.sberhealth.ru
+.pixel-cdp.sberhealth.ru
 .static-rmr.reworldmediafactory.com
 .cca-lite.coinbase.com
 .roas-service.store-services-prod.remarkable.com
@@ -81731,6 +81738,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.datasink.sensorsjourney.com
 .apm-native.redbascket.com
 .apm-fe.rnote.com
 .lng.xiaohongshu.com
