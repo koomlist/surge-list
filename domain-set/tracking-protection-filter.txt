@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.getter.fun
 .clik.by
 .metrix.luxnet.io
 .justtrack.io
@@ -78154,6 +78155,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.stats.zincdrive.com
 .nid.the-sun.com
 .okr.sbdv.ru
 .api.eye.sbdv.ru
