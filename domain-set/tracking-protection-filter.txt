@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.aan8bq.ru
+.bonuscake.ru
 .getter.fun
 .clik.by
 .metrix.luxnet.io
@@ -81543,7 +81545,7 @@
 .reporttk.com
 .track.hily.com
 .ntus.bidease.com
-.thinkingdata.cn
+.global-receiver-ta.thinkingdata.cn
 .mixpanel-proxy-ivbdkvonca-uc.a.run.app
 .tc.zxcvbnml.com
 .fpconfig.net
@@ -82693,6 +82695,7 @@
 .bluenest.net
 .bluevinebooks.com
 .blushingbeast.com
+.blushingbread.com
 .boatcodeapp.com
 .boatpaper.com
 .boatsbuilding.com
@@ -83502,7 +83505,6 @@
 .kernellife.com
 .kidpowers.com
 .kindasingle.com
-.kindhush.com
 .kindlereunion.com
 .kitetuning.com
 .kittentacos.com
