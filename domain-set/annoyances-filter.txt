@@ -627,6 +627,7 @@
 .img-c.net
 .widgets.trustedshops.com
 .widget.oncustomer.asia
+.cdn.helvia.io
 .lemrock.com
 .tariffuxx.de
 .web-client.moveo.ai
