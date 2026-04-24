@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.fubuki-umami.space
 .t.journify.io
 .static.journify.io
 .umamix.fadunews.in
@@ -78163,6 +78164,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.data.ssports.com
 .sas.a.int-nft.peacocktv.com
 .sas.a.peacocktv.com
 .sas.a.stable-int.peacocktv.com
@@ -82877,7 +82879,6 @@
 .climbingright.com
 .cloisteredcurve.com
 .cloudchickens.com
-.cloudguppy.com
 .cloudhustles.com
 .cloudjumbo.com
 .clumsycar.com
@@ -83201,6 +83202,7 @@
 .feeblestamp.com
 .feedandpurr.com
 .feedten.com
+.feelwarmth.com
 .feignedfaucet.com
 .femalecook.com
 .fencesync.com
@@ -84539,6 +84541,7 @@
 .touristfuel.com
 .toysbasics.com
 .toytakeover.com
+.tracecontent.com
 .traderbyte.com
 .tradetooth.com
 .tranquilcan.com
