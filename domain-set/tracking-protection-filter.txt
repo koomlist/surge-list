@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.kataweb.it
 .fubuki-umami.space
 .t.journify.io
 .static.journify.io
@@ -483,7 +484,6 @@
 .mktp-base.mktplatforms.com
 .f-tra.com
 .event.dfinery.io
-.oasjs.kataweb.it
 .polaranalytics.com
 .wsknow.net
 .api.taggrs.io
@@ -78164,6 +78164,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.alib.nine.com.au
 .data.ssports.com
 .sas.a.int-nft.peacocktv.com
 .sas.a.peacocktv.com
@@ -81826,6 +81827,7 @@
 .log2.perfectworldgames.com
 .dlog.perfectworldgames.com
 .ads-img-al.xhscdn.com
+.ads-img-bak.xhscdn.com
 .apm-native.xiaohongshu.com
 .apm-fe.xiaohongshu.com
 .apm-track.xiaohongshu.com
@@ -82863,6 +82865,7 @@
 .childlikecrowd.com
 .childlikeexample.com
 .childlikeform.com
+.chillingtofu.com
 .chingovernment.com
 .chipperisle.com
 .chivalrouscord.com
@@ -83173,6 +83176,7 @@
 .fairytaleflame.com
 .faithrowold.com
 .fakedisguise.com
+.fakeschool.com
 .fallaciousfifth.com
 .fallingshoals.com
 .falseframe.com
@@ -83317,6 +83321,7 @@
 .gianthypes.com
 .giantsvessel.com
 .giddycoat.com
+.giftclothings.com
 .gigkarma.com
 .giraffepiano.com
 .gitcrumbs.com
