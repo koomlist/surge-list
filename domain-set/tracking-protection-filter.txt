@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.cloudx.io
+.lndrsapi.com
 .ac.conel.jp
 .migstat.com
 .kameleoon.io
@@ -99456,6 +99458,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.pla.uqload.vc
 .rta2.newscientist.com
 .ureca.samsungapps.com
 .orsdls.di.runestone.samsung.com
@@ -106210,6 +106213,7 @@
 .terriblethumb.com
 .test2.uat.mundi.work
 .testadmiral.com
+.texturehunt.com
 .texturetrick.com
 .thebestpaints.com
 .thebigvan.com
@@ -106267,6 +106271,7 @@
 .toolforthought.com
 .topcrazypress.com
 .topicalcartel.com
+.topicjungle.com
 .topsecretapp.net
 .topthrowbacks.com
 .tortoisepage.com
@@ -106306,11 +106311,13 @@
 .tuneupcoffee.com
 .tuplebar.com
 .turtleface.net
+.tutorshelf.com
 .twelvedawn.com
 .twentyerr.com
 .twistloss.com
 .twisty.net
 .twochihuahuas.com
+.twofishweb.com
 .typepredict.com
 .typewebsite.com
 .typicalairplane.com
@@ -106344,6 +106351,7 @@
 .upsidebeauty.com
 .upsidehair.com
 .urbanlaurel.com
+.urbanopus.net
 .usabilitybook.com
 .uselesslumber.com
 .userballot.com
